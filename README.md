@@ -17,16 +17,16 @@ be cool if you mention me, and let me know if you use it.
 
 ## Some details about the classes
 
-# Object
+###### Object
 
 The very base class.
 
-# Subject
+###### Subject
 
 Base template class for the subject in Observer Design Pattern. It was used to develop event managers (KeyboardEventManager,
 MouseEVentManager, etc.).
 
-# InputManager
+###### InputManager
 
 Example input manager that uses SDL for taking inputs. It contains event managers mentioned above, polls events via SDL, and
 lets event managers to notify the callbacks registered. InputManager also provides an interface for callback management.
