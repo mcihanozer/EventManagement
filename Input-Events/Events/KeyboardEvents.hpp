@@ -1,8 +1,7 @@
 //
 //  KeyboardEvents.hpp
-//  Packt_CreatingGamesWithAI
 //
-//  Created by Cihan Ozer on 14/12/2017.
+//  Created by Cihan Ozer (www.mcihanozer.com)
 //  Copyright © 2017 Cihan Ozer. All rights reserved.
 //
 
