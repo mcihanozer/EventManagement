@@ -11,7 +11,7 @@ managers if needed.
 
 Here, you can also find callback management and a better Observer pattern design than the regular examples on the internet.
 
-# License
+###### License
 It is under the WTFPL (http://www.wtfpl.net/) license. So, you can do whatever you like with the source code. But, it would
 be cool if you mention me, and let me know if you use it. 
 
