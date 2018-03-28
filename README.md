@@ -1,6 +1,4 @@
 # EventManagement
-Event Management in C++
-
 Base classes for an event-driven system written in C++. It includes input managers, event managers, events, and some example
 code, so you can enhance if you need.
 
